@@ -9,6 +9,6 @@
 #Tasks:
 - Choose a dataset
 - Perform ETL procedures
-- Design Star schema usinh mySQL workbench
+- Design Star schema using mySQL workbench
 - Design Mondrian XML schema and load it into Pentaho 
 - Retrieve info using Pentaho
